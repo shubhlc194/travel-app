@@ -2,7 +2,7 @@ import Link from 'next/link'
 import Image from 'next/image'
 import React from 'react'
 import { NAV_LINKS } from '@/constants'
-import Button from './button'
+import Button from './button' 
 
 const Navbar = () => {
   return (
